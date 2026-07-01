@@ -1,0 +1,82 @@
+canonical_identifier: bkk:krp/KR6c0225/T/v1
+canonical_location: https://kanripo.org/bkk/KR6c0225/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說開覺自性般若波羅蜜多經
+  identifiers:
+    krp: KR6c0225
+    cbeta: T08n0260
+    cbeta_old_id: T08n0260
+    authorityid: CA0001908
+    json_key: T0260
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T08/T08n0260.xml
+    old_id: T08n0260
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6c0225_000-T.yaml, hash: 'sha256:19f39b8525ab7908e279945f12a697a296568ecf2ca670a32dad3284607e2f08'}
+  - {seq: 1, filename: KR6c0225_001-T.yaml, hash: 'sha256:663936de35725ad12110a33ebf60d2e083aaaa5b15417ef6138f228f69802ce8'}
+  - {seq: 2, filename: KR6c0225_002-T.yaml, hash: 'sha256:0c2ae14163286afc3c6e7204d1bad7341f0dd12f50c4d030fc7d1a62e10236b0'}
+  - {seq: 3, filename: KR6c0225_003-T.yaml, hash: 'sha256:1165fc7a14e4bba50284479fe56795896a1e4596f45ef2732677e0ac114d9d23'}
+  - {seq: 4, filename: KR6c0225_004-T.yaml, hash: 'sha256:7a8fdf5b37a6314bece506a55395709bb066ef9c5e9f7c91826b50c31c056bf1'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6c0225_000-T.markers.yaml, hash: 'sha256:f024fa90d55d27475093bde31a842deea47364b1bd2c746a220d32932712e0e9'}
+  - {seq: 1, role: markers, filename: assets/KR6c0225_001-T.markers.yaml, hash: 'sha256:affa0fa62a2161b3d60da6f61789d4f6a5edfdea9efa565ea306bbf6ca4029db'}
+  - {seq: 2, role: markers, filename: assets/KR6c0225_002-T.markers.yaml, hash: 'sha256:2d9aae4227a6ebe7f052950e34b6f1b73f4e5609a63f1ed945f3223755c19355'}
+  - {seq: 3, role: markers, filename: assets/KR6c0225_003-T.markers.yaml, hash: 'sha256:4a9da7e3a91209c18bb85efb6ba4b38501a2265a24be05a4b83467d9bb1facd7'}
+  - {seq: 4, role: markers, filename: assets/KR6c0225_004-T.markers.yaml, hash: 'sha256:735584e58f53816438daf037dd32e9d18030a9d55272c4bcd11b8192aa62bd97'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6c0225_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 2391
+  label: '佛說開覺自性般若波羅蜜多
+
+    經卷第一'
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6c0225_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 3306
+  label: '佛說開覺自性般若波羅蜜多
+
+    經卷第二'
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6c0225_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 3589
+  label: '佛說開覺自性般若波羅蜜多
+
+    經卷第三'
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6c0225_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 3944
+  label: '佛說開覺自性般若波羅蜜多
+
+    經卷第四'
+  type: juan
+  level: 1
+hash: sha256:3c112c741f15d81583662f86c50b053df00aefc3faff35517f633de05babdb46
